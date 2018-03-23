@@ -1,0 +1,21 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "error": "^7.0.2",
+    "node-sass": "^4.7.2",
+    "nuxt": "^1.4.0",
+    "sass-loader": "^6.0.7"
+  },
+  "devDependencies": {
+    "less": "^3.0.1",
+    "less-loader": "^4.1.0"
+  }
+}
